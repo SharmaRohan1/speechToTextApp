@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    min-height: 100vh;
+    background: linear-gradient(
+      135deg,
+      rgb(35, 161, 168),
+      rgba(29, 164, 171, 0.58)
+    );
+    display: grid;
+    justify-items: center;
+    align-items: center;
+  }
+  
+  .text-container {
+    min-height: 35px;
+    width: 400px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    color: black;
+    background-color: #fff;
+  }
+  
+  button {
+    height: 35px;
+    width: 35px;
+    padding: 5px;
+    border-radius: 100%;
+    cursor: pointer;
+  
+    margin: 10px auto;
+  }
+  
