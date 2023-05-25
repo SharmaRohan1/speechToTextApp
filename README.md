@@ -1,0 +1,1 @@
+A speech to text app built using webSpeech API, HTML, CSS and Javascript.
